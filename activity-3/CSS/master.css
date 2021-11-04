@@ -1,0 +1,38 @@
+body {
+    font-family: "Open Sans", "Sans Serif";
+    color: 000080;
+}
+
+h1 {
+    color: coral;
+    background-color: lightskyblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+
+figcaption {
+    font-size: .85em;
+    text-align: center;
+}
+
+span {font-style: italic;}
+
+p#product-description {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+} 
+
+div.review {
+    padding: 10px;
+    background-color: rgb(127, 89, 216);
+    margin: 20px 0 20px 0;
+}

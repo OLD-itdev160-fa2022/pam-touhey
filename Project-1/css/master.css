@@ -1,0 +1,57 @@
+body {
+    font-family: 'open sans', sans-serif;
+    margin: auto 30px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#header-h2 {
+    text-align: center;
+    color: gold;
+}
+
+#credits{
+    font-style: italic;
+    font-size: .75em;
+    margin-bottom: 20px;
+}
+
+#header-image, #Judoon-img, #Daleks-img, #Cybermen-img, #Doctor-Who-Retro {
+    width: 100%;
+}
+
+#p1-planet, #p1-catchphrase, #p1-appearance, #p2-planet, #p2-catchphrase, #p2-appearance, #p3-planet, #p3-catchphrase, #p3-appearance {
+    font-weight: bold;
+    font-style: normal !important;
+}
+
+#p1-name, #p2-name, #p3-name {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+  }
+
+li {
+    display: inline-block;
+    font-style: italic;
+  }
+
+#bullet, #bullet1, #bullet2 {
+    padding: 20px;
+    font-style: italic !important;
+}
+
+
+body {
+    background-image: linear-gradient(to right, rgb(99, 172, 218), purple);
+}
+
+#simple-table {
+    margin-left: auto;
+    margin-right: auto;
+}
